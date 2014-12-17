@@ -46,6 +46,12 @@ p {
   padding: 0;
 }
 
+#itsmegd {
+  font-size: 60px;
+  color: #02adef;
+  font-family: "verdana";
+}
+
 strong {
   color: #222;
   font-weight: 700;
